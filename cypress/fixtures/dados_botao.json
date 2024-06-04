@@ -1,0 +1,28 @@
+{
+    "botoesVisiveis": [
+        {
+            "indice": 1,
+            "titulo": "Formas de Acesso",
+            "iconeVisivel": true,
+            "conteudoVisivel": true
+        },
+        {
+            "indice": 2,
+            "titulo": "Base Legal",
+            "iconeVisivel": true,
+            "conteudoVisivel": true
+        },
+        {
+            "indice": 3,
+            "titulo": "Carta de serviços",
+            "iconeVisivel": true,
+            "conteudoVisivel": true
+        },
+        {
+            "indice": 4,
+            "titulo": "Relatórios",
+            "iconeVisivel": true,
+            "conteudoVisivel": true
+        }
+    ]
+}

@@ -3,8 +3,8 @@ PROJETO INTEGRADOR-EMPREENDEDORISMO E INOVAÇÃO E PROJETO FINAL DA DISCIPLINA D
 
 •	Site usado para os testes: Govbr
 •	Grupo: 
-Antônio Gabriel
-Arthur Victor
-Jorge Miguel
-Pabllo Cristian
+Antônio Gabriel;
+Arthur Victor;
+Jorge Miguel;
+Pabllo Cristian;
 Thomaz Choairy
